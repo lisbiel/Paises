@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">paises</string>
+    <string name="pais">Brasil</string>
+    <string name="comida">Feijoada</string>
+    <string name="food">Feijoada</string>
+    <string name="flag">bandeira do Brasil</string>
+</resources>

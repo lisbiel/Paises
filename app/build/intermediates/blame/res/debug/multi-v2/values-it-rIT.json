@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Rafit\\Desktop\\paises-20190217T234439Z-001\\paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it-rIT\\values-it-rIT.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rafit\\Desktop\\paises-20190217T234439Z-001\\paises\\app\\src\\main\\res\\values-it-rIT\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,6,5,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,138,218,179,98",
+                        "endColumns": "42,40,50,38,39",
+                        "endOffsets": "93,174,264,213,133"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,98,139,190,229",
+                        "endColumns": "42,40,50,38,39",
+                        "endOffsets": "93,134,185,224,264"
+                    }
+                }
+            ]
+        }
+    ]
+}

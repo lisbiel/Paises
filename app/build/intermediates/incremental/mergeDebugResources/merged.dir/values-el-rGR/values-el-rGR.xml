@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">χώρες</string>
+    <string name="comida">Μουσάκα</string>
+    <string name="flag">Σημαία της Ελλάδας</string>
+    <string name="food">Μουσάκα</string>
+    <string name="pais">Ελλάδα</string>
+</resources>

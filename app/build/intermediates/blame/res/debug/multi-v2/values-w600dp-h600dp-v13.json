@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Rafit\\Desktop\\paises-20190217T234439Z-001\\paises\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-h600dp-v13\\values-w600dp-h600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Rafit\\Desktop\\paises-20190217T234439Z-001\\paises\\app\\src\\main\\res\\values-w600dp-h600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4,3,5,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "147,101,195,55",
+                        "endColumns": "47,45,47,45",
+                        "endOffsets": "190,142,238,96"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,103,149,197",
+                        "endColumns": "47,45,47,45",
+                        "endOffsets": "98,144,192,238"
+                    }
+                }
+            ]
+        }
+    ]
+}
